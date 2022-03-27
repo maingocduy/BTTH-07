@@ -1,0 +1,34 @@
+form{ 
+    border: 2px outset #b9b6b7;
+    width: 500px;
+    height: 790px;
+}
+.header{
+    display: flex;
+}
+#btnRegister{
+   margin-left: 200px;
+   height: 40px;
+   width: 100px;
+   border-radius: 4px;
+}
+#txtname{
+    width: 300px;
+}
+#txtAddress{
+    width: 300px;
+}
+#txtZipcode{
+    width: 150px;
+}
+#txtEmail{
+    width: 300px;
+}
+.text-header{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 200;
+}
+.row{
+    margin-top: 15px;
+}
